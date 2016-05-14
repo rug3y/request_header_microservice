@@ -1,0 +1,15 @@
+{
+  "name": "request_header_microservice",
+  "version": "1.0.0",
+  "description": "A microservice project for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobin Walton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "ua-parser-js": "^0.7.10"
+  }
+}
